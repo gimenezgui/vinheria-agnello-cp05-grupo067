@@ -12,7 +12,7 @@
 
 **FIAP · Edge Computing · Grupo 067**
 
-[🔗 Simulação no Wokwi](https://wokwi.com/projects/478537713309912065) · [🎬 Vídeo de demonstração]([COLAR LINK DO VÍDEO])
+[🔗 Simulação no Wokwi](https://wokwi.com/projects/478537713309912065) 
 
 </div>
 
